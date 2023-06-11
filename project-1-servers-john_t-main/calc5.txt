@@ -1,0 +1,4 @@
+s1 a r2 NULL NULL
+b s2 r3 c NULL
+d e s3 r4 NULL
+r3 s4 NULL NULL NULL

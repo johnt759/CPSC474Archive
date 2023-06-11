@@ -1,0 +1,7 @@
+Open the directory in Command Prompt or terminal. Type the following command line:
+
+mpiexec -n [num_proc] python [filename].py [input_file].txt
+
+Replace [num_proc] with the number of processes you want to have, and [filename] with
+the Python file you would like to open. Also replace [input_file] with the name
+of the text file you would like to use.
